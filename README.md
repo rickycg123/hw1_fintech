@@ -1,5 +1,5 @@
 # Stripe Case Study
-A case study on Stripe, a FinTech company that enable individuals and businesses to make and receive payments over the Internet.
+A case study on Stripe, a FinTech company that enable individuals and businesses to make and receive payments over the Internet. Its software platform lets businesses accept online payments, with customers ranging from small websites to Amazon and Facebook. In 2019, Stripe launched a new corporate credit card and small business loans, which are automatically repaid from payments it processes for borrowers.
 
 
 ![Stripe logo](https://stripe.com/img/v3/home/social.png)
@@ -48,7 +48,7 @@ On November 5, 2019, Stripe announced the launch of the Stripe command-line inte
 ## Fintech Landscape
 ![Fintech Landscape](images/fintech_landscape.jpeg)
 
-
+![Fintech Funding](https://thefinanser.com/wp-content/uploads/2019/02/Visualisation-FinTech-funding.png)
 
 ## Results
 
