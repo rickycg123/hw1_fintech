@@ -71,7 +71,7 @@ My recommendation is for Stripe to build from the strength of its technology, tr
 
     Open an account from your phone in minutes, without a credit check. Just add a $20 deposit to get started and order your free card to spend at home or abroad in 150+ currencies.
 
-* Hold, exchange and receive 20 CURRENCIES
+* Hold, exchange and receive 20 currencies
     
     Whether you’re living abroad or have family overseas, you can hold, exchange, send and receive 20 currencies like USD, GBP, MXN, SGD, CAD and EUR in seconds.
 
